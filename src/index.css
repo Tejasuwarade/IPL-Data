@@ -1,0 +1,41 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300&display=swap');
+
+#title{
+    padding: 10px;
+    font-style:monospace;
+    font-size: 2em;
+    font-weight: bold;
+    background-color:#ffcccc;
+}
+
+.ag-theme-balham{
+    font-size: 17px;
+    font-weight: bold;
+    font-family: 'Oswald', sans-serif;
+
+}
+
+@media (max-width: 737px){
+
+    #title{
+        padding: 10px;
+        font-style:monospace;
+        font-size: 2em;
+        font-weight: bold;
+        background-color:aqua;
+
+
+    }
+    
+    .ag-theme-balham{
+        font-size: 17px;
+        font-weight: bold;
+        font-family: 'Oswald', sans-serif;
+        height:auto;
+        width:auto;
+    
+    }
+
+}
+
